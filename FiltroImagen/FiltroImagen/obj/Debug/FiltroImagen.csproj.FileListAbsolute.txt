@@ -1,0 +1,10 @@
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\bin\Debug\FiltroImagen.exe.config
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\bin\Debug\FiltroImagen.exe
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\bin\Debug\FiltroImagen.pdb
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.csproj.AssemblyReference.cache
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.Form1.resources
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.Properties.Resources.resources
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.csproj.GenerateResource.cache
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.csproj.CoreCompileInputs.cache
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.exe
+C:\Users\serva\Documents\7mo SEMESTRE\PROCESAMIENTO DIGITAL DE IMAGENES\PROYECTO DE FILTROS\FiltroImagen\FiltroImagen\obj\Debug\FiltroImagen.pdb
